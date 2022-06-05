@@ -1,3 +1,5 @@
+// Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
+
 function oddOrEven(array) {
     //enter code here
     if (array === [] || array === [1] || array === [0]) {
