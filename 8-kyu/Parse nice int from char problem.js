@@ -15,3 +15,4 @@ function getAge(inputString) {
 //OR
 
 // const getAge = inputString => parseInt(inputString)
+
