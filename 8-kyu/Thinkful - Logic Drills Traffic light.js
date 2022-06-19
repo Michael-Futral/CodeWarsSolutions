@@ -13,6 +13,23 @@ function updateLight(current) {
     }
 }
 
-  //OR
+//OR
 
-//   const updateLight = current => current === 'green' ? 'yellow' : current === 'red' ? 'green' : 'red'
+//const updateLight = current => current === 'green' ? 'yellow' : current === 'red' ? 'green' : 'red'
+
+//OR
+
+// const updateLight = current => ({
+//     green: 'yellow',
+//     yellow: 'red',
+//     red: 'green',
+// })[current]
+
+//OR
+
+// function updateLight(current) {
+//     var dict = {'green' : 'yellow',
+//                 'yellow' : 'red',
+//                 'red' : 'green'};
+//     return dict[current];
+//   }
