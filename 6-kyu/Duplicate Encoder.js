@@ -44,6 +44,16 @@ function duplicateEncode(word) {
 //OR
 
 function duplicateEncode(word) {
-    word = word.toLowerCase();
-    return word.replace(/./g, m => word.indexOf(m) == word.lastIndexOf(m) ? '(' : ')');
+    var letters = word.toLowerCase().split('')
+    return letters.map(function (c, i) {
+        return letters.some(function (x, j) { return x === c && i !== j }) ? ')' : '('
+    }).join('')
 }
+
+//OR
+
+const duplicateEncode = s => s
+    .toLowerCase()
+    .split``
+    .map((e, _, a) => a.indexOf(e) === a.lastIndexOf(e) ? '(' : ')')
+    .join``;
