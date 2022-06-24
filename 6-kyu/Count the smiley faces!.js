@@ -1,0 +1,1 @@
+const countSmileys = arr => arr.reduce((c, f) => c + /^[:;][-~]?[D)]$/.test(f), 0);
