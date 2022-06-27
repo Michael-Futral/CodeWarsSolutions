@@ -1,0 +1,1 @@
+const countPositivesSumNegatives = (input) => input == false || input == null || [0, 0] === input ? [] : [(input.filter(el => el > 0).length), (input.filter(el => el < 0).reduce((pre, curr) => pre + curr, 0))]

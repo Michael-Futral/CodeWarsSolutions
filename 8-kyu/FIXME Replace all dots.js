@@ -1,0 +1,1 @@
+var replaceDots = (str) => str.replace(/[.]/gi, '-');
