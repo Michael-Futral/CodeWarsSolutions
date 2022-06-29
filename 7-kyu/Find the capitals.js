@@ -1,0 +1,1 @@
+var capitals = (word) => word.split('').map((el, idx) => el == el.toUpperCase() ? idx : '').join('').split('').map(x => parseInt(x, 10))
