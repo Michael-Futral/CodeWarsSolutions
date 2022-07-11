@@ -1,0 +1,1 @@
+const shortcut = (string) => string.replace(/[a,e,i,o,u]/g, '');
