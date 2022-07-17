@@ -1,0 +1,1 @@
+const closestMultiple10 = num => Math.round(num * .1) * 10
