@@ -1,0 +1,1 @@
+const derive = (coeff, expo) => `${coeff * expo}x^${expo - 1}`
