@@ -1,0 +1,1 @@
+const noOdds = (values) => values.filter(num => num % 2 == 0)
