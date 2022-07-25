@@ -1,0 +1,1 @@
+const smallEnough = (a, limit) => limit >= a.sort((a, b) => b - a)[0]
