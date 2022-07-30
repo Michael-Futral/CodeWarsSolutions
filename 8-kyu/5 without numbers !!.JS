@@ -5,6 +5,5 @@ const unusualFive = () => 'ahole'.length
 function unusualFive() {
     let a,
         num = [a, a, a, a, a]
-
     return num.length
 }
