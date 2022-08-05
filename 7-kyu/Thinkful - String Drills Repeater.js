@@ -1,0 +1,1 @@
+const repeater = (str, n) => Array(n).fill(str).join('')
