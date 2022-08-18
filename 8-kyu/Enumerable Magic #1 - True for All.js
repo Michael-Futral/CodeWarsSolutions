@@ -1,0 +1,1 @@
+const all = (arr, fun) => arr.reduce((pre, curr) => fun(curr) == true ? pre = true : pre = false, true)
