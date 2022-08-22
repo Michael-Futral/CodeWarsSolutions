@@ -1,0 +1,1 @@
+const pointsPer48 = (ppg, mpg) => ppg * mpg == 0 ? 0 : +(48 / mpg * ppg).toFixed(1)
