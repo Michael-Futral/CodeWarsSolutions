@@ -1,0 +1,1 @@
+var number = (array) => array.map((el, idx)=> `${idx+1}: ${el}`)
