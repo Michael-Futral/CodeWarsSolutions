@@ -7,9 +7,9 @@
 
 ###### Creating a repository like this is discouraged by Codewars
 
+<a href="https://www.codewars.com/users/Michael%20F." target="_blank" title="click me!!" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/82717311?s=100" height=50px></a>
 
-<!-- [![HitCount](http://hits.dwyl.io/Automedon/codewars.svg)](http://hits.dwyl.io/Automedon/codewars)
-![GitHub top language](https://img.shields.io/github/languages/top/Automedon/codewars)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Automedon/codewars)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Automedon/codewars)
-![GitHub last commit](https://img.shields.io/github/last-commit/Automedon/codewars) -->
+![GitHub top language](https://img.shields.io/github/languages/top/Michael-Futral/CodeWarsSolutions)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Michael-Futral/CodeWarsSolutions)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Michael-Futral/CodeWarsSolutions)
+![GitHub last commit](https://img.shields.io/github/last-commit/Michael-Futral/CodeWarsSolutions)
