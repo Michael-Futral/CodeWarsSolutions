@@ -6,8 +6,12 @@
 ###### I will not be accepting contributions of any form to this repo
 
 ###### Creating a repository like this is discouraged by Codewars
-
+<kbd>
 <a href="https://www.codewars.com/users/Michael%20F." target="_blank" title="click me!!" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/u/82717311?s=100" height=50px></a>
+</kbd>
+
+<br/>
+<hr/>
 
 ![GitHub top language](https://img.shields.io/github/languages/top/Michael-Futral/CodeWarsSolutions)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Michael-Futral/CodeWarsSolutions)
