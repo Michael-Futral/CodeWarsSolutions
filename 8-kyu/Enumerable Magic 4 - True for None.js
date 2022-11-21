@@ -1,0 +1,1 @@
+const none = (arr, fun) => arr.filter(fun).length == false;
